@@ -11,4 +11,4 @@ That project wasn't updated for a long time and transferring anything already co
 - Vue CLI 3.0
 - Typescript 2.8
 
-<sub><sup>drink responsibly</sup></sub>
+<sup>drink responsibly</sup>
